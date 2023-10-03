@@ -12,7 +12,7 @@
 </div>
 <h3>&#128104;&#8205;&#128187; Developer : <a href='https://t.me/Mr_D4rk'>T.me/Mr_D4rk</a><br>💠 Version : 1.0<br>💠 PHP Version : 5.4.7 < 8.2</h3><br>
 <h3>Full Responsive</h3>
-<img src="https://github.com/Soltanmsb/Web-Proxy/assets/103173374/99b91372-7884-4e1d-aed6-f14d9a59ab18" alt="Soltanmsb/Web-Proxy">
+<img src="https://github.com/Soltanmsb/Web-Proxy/assets/103173374/5cdfde1f-721d-40ce-b810-aed5000cd397" alt="Soltanmsb/Web-Proxy">
 
 <h3><b>Note :</b></h3><h4>✅ This is just a tool to bypass filtering<br>✅ To run, you need a host of filter countries<br>⭕ Example : UK ,USA ,FR</h4>
 
