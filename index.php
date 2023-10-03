@@ -261,7 +261,7 @@ if (empty($url)) {
             <meta charset=\"UTF-8\">
             <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
             <link rel=\"stylesheet\" href=\"style.css\">
-            <link rel=\"icon\" href=\"img/logo.png\">
+            <link rel=\"icon\" href=\"https://dl.soltanmsb.xyz/picture/web-proxy/logo.png\">
             <title>Web Proxy</title>
         </head>
         <body>
@@ -272,13 +272,13 @@ if (empty($url)) {
                 <input id=\"site\" type=\"text\" placeholder=\"Url\" /><br>
                 <input id=\"submit\" type=\"submit\" value=\"Proxy It!\" /><br><br>
                 <a href=\"index.php?https://instagram.com/soltanmsb\">
-                <img class=\"icon\" src=\"img/instagram.png\" alt=\"Instagram Soltanmsb\">
+                <img class=\"icon\" src=\"https://dl.soltanmsb.xyz/picture/web-proxy/instagram.png\" alt=\"Instagram Soltanmsb\">
                 </a>
                 <a href=\"index.php?https://t.me/Mr_D4rk\">
-                <img class=\"icon\" src=\"img/telegram.png\" alt=\"Telegram Soltanmsb\">
+                <img class=\"icon\" src=\"https://dl.soltanmsb.xyz/picture/web-proxy/telegram.png\" alt=\"Telegram Soltanmsb\">
                 </a>
                 <a href=\"index.php?https://youtube.com/c/soltanmsb\">
-                <img class=\"icon\" src=\"img/youtube.png\" alt=\"Youtube Soltanmsb\">
+                <img class=\"icon\" src=\"https://dl.soltanmsb.xyz/picture/web-proxy/youtube.png\" alt=\"Youtube Soltanmsb\">
                 </a>
                 </form>
             </div>
