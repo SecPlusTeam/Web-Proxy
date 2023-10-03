@@ -9,7 +9,7 @@ body, html {
 }
 
 .bg-img {
-    background-image: url("https://dl.soltanmsb.xyz/picture/backgrund.png");
+    background-image: url("https://dl.soltanmsb.xyz/picture/web-proxy/backgrund.png");
     filter: blur(8px);
     -webkit-filter: blur(8px);
     height: 100%;
